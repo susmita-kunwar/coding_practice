@@ -2,3 +2,5 @@ This is coding practice
 emoji
 typing option
 vibrant
+dark mode
+video option
