@@ -4,3 +4,4 @@ typing option
 vibrant
 dark mode
 video option
+text
