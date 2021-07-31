@@ -1,2 +1,2 @@
 # coding_practice
-Not good in coding but trying to be best in coding
+“Make it work, make it right, make it fast.”
